@@ -1,3 +1,4 @@
 # Retroreflectivity-Scorer
-This program is developed for the project of "SCDOT Asset Data Collection" led by Jennifer Ogle.
-The major function of this program is to estimate the retroreflectivity of traffic control devices by analyzing video data that is captured by cameras mounted on vehicles.
+The program was developed for the SCDOT Asset Data Collection project led by Jennifer Ogle.
+
+The main function of this solution is to estimate the retroreflectivity of the traffic control equipment by analyzing the video data captured by the camera mounted on the vehicle.
